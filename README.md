@@ -1,5 +1,5 @@
 <p align="center" style="display: flex; justify-content: center;">
-    <img src="https://media1.tenor.com/m/xf4rlWSqMVYAAAAd/eternal-return-charlotte.gif" width="15%" style="margin: 0;" />
+    <img src="https://media1.tenor.com/m/xf4rlWSqMVYAAAAd/eternal-return-charlotte.gif" width="10%" style="margin: 0;" />
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=500&color=FFA500&center=true&vCenter=true&width=435&lines=%F0%9F%91%BB+Hi,+I'm+Samuel!+%F0%9F%91%BB;%F0%9F%90%90+Welcome+to+my+profile!+%F0%9F%90%90"
             alt="Typing SVG" style="margin: 0;" />
